@@ -17,19 +17,17 @@ This is a simple web application where users can view, add, edit, and delete use
    git clone https://github.com/your-username/your-repository-name.git
    cd your-repository-name
    
-2.Install Dependencies:
+2.**Install Dependencies**:
 
   npm install
 
-3.Run Application:
+3.**Run Application**:
 
   npm run dev
 
 The app should be available at http://localhost:3000 OR 5173.
 
-Development Challenges:
-
-Challenges:
+**Development Challenges**:
 
 1.Simulating Real Data with JSONPlaceholder: Although JSONPlaceholder is an excellent resource for testing, it's not a real database, and changes don't persist after page reload. This 
   limited some of the functionality during testing (e.g., adding a user only simulates the action without real data storage).
