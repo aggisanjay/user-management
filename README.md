@@ -11,9 +11,11 @@ This is a simple web application where users can view, add, edit, and delete use
 - **Responsive Design**: The app is responsive and works well on mobile and desktop screens.
 
 ## Setup Instructions:
+
 1. **Clone the Repository**:
 
    git clone https://github.com/your-username/your-repository-name.git
+   
    cd your-repository-name
    
 2.**Install Dependencies**:
